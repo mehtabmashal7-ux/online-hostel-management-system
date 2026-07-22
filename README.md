@@ -70,6 +70,19 @@ The main purpose of this project is to simplify hostel management by allowing ad
 
 - GitHub: https://github.com/mehtabmashal7-ux
 - LinkedIn: https://www.linkedin.com/in/mehtab-ahmad-pk07/
+- ## 📸 Project Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Home Page
+![Home Page](screenshots/home-page.png)
 
 ## ⭐ Support
 
